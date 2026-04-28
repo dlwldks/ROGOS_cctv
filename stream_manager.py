@@ -24,39 +24,39 @@ def start_stream(source):
     cmd = [
         "ffmpeg",
         "-re",
-        "-i",
-        source_url,
+        "-fflags", "+genpts",
+        "-i", source_url,
         "-an",
-        "-c:v",
-        "libx264",
-        "-preset",
-        "veryfast",
-        "-tune",
-        "zerolatency",
-        "-rtsp_transport",
-        "tcp",
-        "-f",
-        "rtsp",
+        "-c:v", "libx264",
+        "-vf", "fps=30,scale=704:480",
+        "-preset", "veryfast",
+        "-tune", "zerolatency",
+        "-f", "rtsp",
+        "-rtsp_transport", "tcp",
         rtsp_url,
     ]
 
-    print(f"▶ 송출 시작: {name}")
+    print(f"\n▶ 송출 시작: {name}")
     print(f"   source: {source_url}")
     print(f"   rtsp:   {rtsp_url}")
 
-    return subprocess.Popen(cmd)
+    return subprocess.Popen(
+        cmd,
+        stdin=subprocess.DEVNULL,
+    )
 
 
 def main():
     sources = load_sources()
+
+    print("🚀 CCTV 스트림 전체 시작")
 
     for source in sources:
         process = start_stream(source)
         processes.append(process)
         time.sleep(1)
 
-    print("\n✅ 모든 CCTV 송출 프로세스 실행됨")
-    print("종료하려면 Ctrl + C")
+    print("\n✅ 모든 CCTV 실행 완료")
 
     try:
         while True:
@@ -64,12 +64,12 @@ def main():
 
             for i, process in enumerate(processes):
                 if process.poll() is not None:
-                    print(f"⚠️ 프로세스 종료 감지: {sources[i]['name']}")
-                    print("   다시 시작합니다.")
+                    print(f"\n⚠️ 스트림 종료됨: {sources[i]['name']}")
+                    print("🔄 재시작 중...")
                     processes[i] = start_stream(sources[i])
 
     except KeyboardInterrupt:
-        print("\n🛑 전체 스트림 종료 중...")
+        print("\n🛑 전체 스트림 종료")
 
         for process in processes:
             process.terminate()

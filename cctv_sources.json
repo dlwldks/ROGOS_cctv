@@ -16,5 +16,32 @@
   "source_url": "https://strm3.spatic.go.kr/live/426.stream/playlist.m3u8",
   "rtsp_url": "rtsp://localhost:8554/seoul_426",
   "hls_url": "http://localhost:8888/seoul_426/index.m3u8"
+},
+{
+  "id": "seoul_418",
+  "name": "동작대교북단",
+  "region": "서울",
+  "source_type": "hls",
+  "source_url": "https://strm3.spatic.go.kr/live/418.stream/playlist.m3u8",
+  "rtsp_url": "rtsp://localhost:8554/seoul_418",
+  "hls_url": "http://localhost:8888/seoul_418/index.m3u8"
+},
+{
+  "id": "seoul_436",
+  "name": "마포~원효중간",
+  "region": "서울",
+  "source_type": "hls",
+  "source_url": "https://strm3.spatic.go.kr/live/436.stream/playlist.m3u8",
+  "rtsp_url": "rtsp://localhost:8554/seoul_436",
+  "hls_url": "http://localhost:8888/seoul_436/index.m3u8"
+},
+{
+  "id": "seoul_244",
+  "name": "원효대교남단",
+  "region": "서울",
+  "source_type": "hls",
+  "source_url": "https://strm2.spatic.go.kr/live/244.stream/playlist.m3u8",
+  "rtsp_url": "rtsp://localhost:8554/seoul_244",
+  "hls_url": "http://localhost:8888/seoul_244/index.m3u8"
 }
 ]
