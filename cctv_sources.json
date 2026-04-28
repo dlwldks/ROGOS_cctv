@@ -43,5 +43,14 @@
   "source_url": "https://strm2.spatic.go.kr/live/244.stream/playlist.m3u8",
   "rtsp_url": "rtsp://localhost:8554/seoul_244",
   "hls_url": "http://localhost:8888/seoul_244/index.m3u8"
+},
+{
+  "id": "seoul_477",
+  "name": "한강철교남단",
+  "region": "서울",
+  "source_type": "hls",
+  "source_url": "https://strm4.spatic.go.kr/live/477.stream/playlist.m3u8",
+  "rtsp_url": "rtsp://localhost:8554/seoul_477",
+  "hls_url": "http://localhost:8888/seoul_477/index.m3u8"
 }
 ]

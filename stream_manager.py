@@ -24,15 +24,25 @@ def start_stream(source):
     cmd = [
         "ffmpeg",
         "-re",
-        "-fflags", "+genpts",
+
+        # HLS 조각 간 시간값 보정
+        "-fflags", "+genpts+igndts",
+        "-use_wallclock_as_timestamps", "1",
+        "-avoid_negative_ts", "make_zero",
+
         "-i", source_url,
+
         "-an",
-        "-c:v", "libx264",
-        "-vf", "fps=30,scale=704:480",
-        "-preset", "veryfast",
-        "-tune", "zerolatency",
+
+        # 재인코딩 없음
+        "-c:v", "copy",
+
+        # RTSP 송출 안정화
         "-f", "rtsp",
         "-rtsp_transport", "tcp",
+        "-muxdelay", "0.1",
+        "-muxpreload", "0.1",
+
         rtsp_url,
     ]
 
