@@ -1,0 +1,20 @@
+[
+  {
+    "id": "seoul_424",
+    "name": "원효대교 북단",
+    "region": "서울",
+    "source_type": "hls",
+    "source_url": "https://strm3.spatic.go.kr/live/424.stream/playlist.m3u8",
+    "rtsp_url": "rtsp://localhost:8554/seoul_424",
+    "hls_url": "http://localhost:8888/seoul_424/index.m3u8"
+  },
+{
+  "id": "seoul_426",
+  "name": "이촌외인아파트 앞",
+  "region": "서울",
+  "source_type": "hls",
+  "source_url": "https://strm3.spatic.go.kr/live/426.stream/playlist.m3u8",
+  "rtsp_url": "rtsp://localhost:8554/seoul_426",
+  "hls_url": "http://localhost:8888/seoul_426/index.m3u8"
+}
+]

@@ -1,0 +1,6 @@
+paths:
+  robos_cam:
+    source: publisher
+
+volumes:
+  - ./mediamtx.yml:/mediamtx.yml
