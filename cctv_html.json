@@ -1,0 +1,191 @@
+[
+  {
+    "id": "seoul_424",
+    "name": "원효대교 북단",
+    "region": "서울",
+    "source_type": "hls",
+    "source_url": "https://strm3.spatic.go.kr/live/424.stream/playlist.m3u8",
+    "rtsp_url": "rtsp://localhost:8554/seoul_424",
+    "hls_url": "http://localhost:8888/seoul_424/index.m3u8"
+  },
+{
+  "id": "seoul_426",
+  "name": "이촌외인아파트 앞",
+  "region": "서울",
+  "source_type": "hls",
+  "source_url": "https://strm3.spatic.go.kr/live/426.stream/playlist.m3u8",
+  "rtsp_url": "rtsp://localhost:8554/seoul_426",
+  "hls_url": "http://localhost:8888/seoul_426/index.m3u8"
+},
+{
+  "id": "seoul_418",
+  "name": "동작대교북단",
+  "region": "서울",
+  "source_type": "hls",
+  "source_url": "https://strm3.spatic.go.kr/live/418.stream/playlist.m3u8",
+  "rtsp_url": "rtsp://localhost:8554/seoul_418",
+  "hls_url": "http://localhost:8888/seoul_418/index.m3u8"
+},
+{
+  "id": "seoul_436",
+  "name": "마포~원효중간",
+  "region": "서울",
+  "source_type": "hls",
+  "source_url": "https://strm3.spatic.go.kr/live/436.stream/playlist.m3u8",
+  "rtsp_url": "rtsp://localhost:8554/seoul_436",
+  "hls_url": "http://localhost:8888/seoul_436/index.m3u8"
+},
+{
+  "id": "seoul_244",
+  "name": "원효대교남단",
+  "region": "서울",
+  "source_type": "hls",
+  "source_url": "https://strm2.spatic.go.kr/live/244.stream/playlist.m3u8",
+  "rtsp_url": "rtsp://localhost:8554/seoul_244",
+  "hls_url": "http://localhost:8888/seoul_244/index.m3u8"
+},
+{
+  "id": "seoul_477",
+  "name": "한강철교남단",
+  "region": "서울",
+  "source_type": "hls",
+  "source_url": "https://strm4.spatic.go.kr/live/477.stream/playlist.m3u8",
+  "rtsp_url": "rtsp://localhost:8554/seoul_477",
+  "hls_url": "http://localhost:8888/seoul_477/index.m3u8"
+},
+{
+    "id": "seoul_80",
+    "name": "원불교",
+    "region": "서울",
+    "source_type": "hls",
+    "source_url": "https://strm1.spatic.go.kr/live/80.stream/playlist.m3u8",
+    "rtsp_url": "rtsp://localhost:8554/seoul_80",
+    "hls_url": "http://localhost:8888/seoul_80/index.m3u8"
+},
+  {
+  "id": "seoul_82",
+  "name": "국립현충원",
+  "region": "서울",
+  "source_type": "hls",
+  "source_url": "https://strm1.spatic.go.kr/live/82.stream/playlist.m3u8",
+  "rtsp_url": "rtsp://localhost:8554/seoul_82",
+  "hls_url": "http://localhost:8888/seoul_82/index.m3u8"
+},
+{
+  "id": "seoul_55",
+  "name": "서울성모병원",
+  "region": "서울",
+  "source_type": "hls",
+  "source_url": "https://strm1.spatic.go.kr/live/55.stream/playlist.m3u8",
+  "rtsp_url": "rtsp://localhost:8554/seoul_55",
+  "hls_url": "http://localhost:8888/seoul_55/index.m3u8"
+},
+{
+  "id": "seoul_195",
+  "name": "한남대교남단2",
+  "region": "서울",
+  "source_type": "hls",
+  "source_url": "https://strm2.spatic.go.kr/live/195.stream/playlist.m3u8",
+  "rtsp_url": "rtsp://localhost:8554/seoul_195",
+  "hls_url": "http://localhost:8888/seoul_195/index.m3u8"
+},
+{
+  "id": "seoul_39",
+  "name": "여의교북단",
+  "region": "서울",
+  "source_type": "hls",
+  "source_url": "https://strm1.spatic.go.kr/live/39.stream/playlist.m3u8",
+  "rtsp_url": "rtsp://localhost:8554/seoul_39",
+  "hls_url": "http://localhost:8888/seoul_39/index.m3u8"
+},
+{
+  "id": "seoul_275",
+  "name": "국회도서관",
+  "region": "서울",
+  "source_type": "hls",
+  "source_url": "https://strm3.spatic.go.kr/live/275.stream/playlist.m3u8",
+  "rtsp_url": "rtsp://localhost:8554/seoul_275",
+  "hls_url": "http://localhost:8888/seoul_275/index.m3u8"
+},
+{
+  "id": "seoul_478",
+  "name": "반포주공아파트 앞",
+  "region": "서울",
+  "source_type": "hls",
+  "source_url": "https://strm4.spatic.go.kr/live/478.stream/playlist.m3u8",
+  "rtsp_url": "rtsp://localhost:8554/seoul_478",
+  "hls_url": "http://localhost:8888/seoul_478/index.m3u8"
+},
+{
+  "id": "seoul_288",
+  "name": "구반포R",
+  "region": "서울",
+  "source_type": "hls",
+  "source_url": "https://strm3.spatic.go.kr/live/288.stream/playlist.m3u8",
+  "rtsp_url": "rtsp://localhost:8554/seoul_288",
+  "hls_url": "http://localhost:8888/seoul_288/index.m3u8"
+},
+{
+  "id": "seoul_77",
+  "name": "이수교",
+  "region": "서울",
+  "source_type": "hls",
+  "source_url": "https://strm1.spatic.go.kr/live/77.stream/playlist.m3u8",
+  "rtsp_url": "rtsp://localhost:8554/seoul_77",
+  "hls_url": "http://localhost:8888/seoul_77/index.m3u8"
+},
+{
+  "id": "seoul_55",
+  "name": "서울성모병원",
+  "region": "서울",
+  "source_type": "hls",
+  "source_url": "https://strm1.spatic.go.kr/live/55.stream/playlist.m3u8",
+  "rtsp_url": "rtsp://localhost:8554/seoul_55",
+  "hls_url": "http://localhost:8888/seoul_55/index.m3u8"
+},
+{
+  "id": "seoul_54",
+  "name": "강남터미널",
+  "region": "서울",
+  "source_type": "hls",
+  "source_url": "https://strm1.spatic.go.kr/live/54.stream/playlist.m3u8",
+  "rtsp_url": "rtsp://localhost:8554/seoul_54",
+  "hls_url": "http://localhost:8888/seoul_54/index.m3u8"
+},
+{
+  "id": "seoul_528",
+  "name": "한남IC",
+  "region": "서울",
+  "source_type": "hls",
+  "source_url": "https://strm4.spatic.go.kr/live/528.stream/playlist.m3u8",
+  "rtsp_url": "rtsp://localhost:8554/seoul_528",
+  "hls_url": "http://localhost:8888/seoul_528/index.m3u8"
+},
+{
+  "id": "seoul_460",
+  "name": "반포대교~한남3",
+  "region": "서울",
+  "source_type": "hls",
+  "source_url": "https://strm3.spatic.go.kr/live/460.stream/playlist.m3u8",
+  "rtsp_url": "rtsp://localhost:8554/seoul_460",
+  "hls_url": "http://localhost:8888/seoul_460/index.m3u8"
+},
+{
+  "id": "seoul_482",
+  "name": "반포대교~한남대교2",
+  "region": "서울",
+  "source_type": "hls",
+  "source_url": "https://strm4.spatic.go.kr/live/482.stream/playlist.m3u8",
+  "rtsp_url": "rtsp://localhost:8554/seoul_482",
+  "hls_url": "http://localhost:8888/seoul_482/index.m3u8"
+},
+{
+  "id": "seoul_459",
+  "name": "반포대교~한남1",
+  "region": "서울",
+  "source_type": "hls",
+  "source_url": "https://strm3.spatic.go.kr/live/459.stream/playlist.m3u8",
+  "rtsp_url": "rtsp://localhost:8554/seoul_459",
+  "hls_url": "http://localhost:8888/seoul_459/index.m3u8"
+}
+]

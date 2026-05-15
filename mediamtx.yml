@@ -1,5 +1,5 @@
 paths:
-  robos_cam:
+  rogos_cam:
     source: publisher
 
 volumes:
