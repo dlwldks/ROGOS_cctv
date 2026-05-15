@@ -4,7 +4,7 @@
     "name": "[국도1호선] 파주 봉일천4리",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/4013/6mDsrK0Vwl1X9cOBR1zYBE/y0BddXEWJsLCcsD6aJGoEsruPPr3E8mDtL0fUqqWcK2LmBhdP992PK/SVKeXvt4b6/DUoPrIK0665NjL3ipY=",
+    "source_url": "https://cctvsec.ktict.co.kr/4013/6mDsrK0Vwl1X9cOBR1zYBE/y0BddXEWJsLCcsD6aJGoEsruPPr3E8mDtL0fUqqWcxHhtXexRFrjcQxyDBueGvv1rQjLTX+mlEJTC3kvUu6c=",
     "rtsp_url": "rtsp://localhost:8554/its_its_1",
     "hls_url": "http://localhost:8888/its_its_1/index.m3u8"
   },
@@ -13,7 +13,7 @@
     "name": "[국도 1호선] 파주 등원교차로",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/4014/gfWJLOPCzisW8uCjmEpqePOfRKcjHc8/ggrsFR20G9PrKyWmfwKpE04/VHTe06cGZTtN+lvkOJ8V/NQe9opI37KBZglVpU5h35FLjwhVuds=",
+    "source_url": "https://cctvsec.ktict.co.kr/4014/gfWJLOPCzisW8uCjmEpqePOfRKcjHc8/ggrsFR20G9PrKyWmfwKpE04/VHTe06cGG4nJOxMRvE2EV+dPL2jXJsp1sAlnkLqiS5ojhE/ru5I=",
     "rtsp_url": "rtsp://localhost:8554/its_its_2",
     "hls_url": "http://localhost:8888/its_its_2/index.m3u8"
   },
@@ -22,7 +22,7 @@
     "name": "[국도 43호선] 용인 동림리",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/4214/bVIXJhQCpffK1pWbJPx9fWA3K5IE9nBBmE0kHr/N/5Mtc3zL70iRNhmvJdIzOfzmyS2IlBJRc+xl9D+gaYcJXTqxRNHbVshmfQgtINqu5D4=",
+    "source_url": "https://cctvsec.ktict.co.kr/4214/bVIXJhQCpffK1pWbJPx9fWA3K5IE9nBBmE0kHr/N/5Mtc3zL70iRNhmvJdIzOfzmyyptNVnpxvo8ZYTVzjQwAeYZ4qWljh6JYp53XRfqVV0=",
     "rtsp_url": "rtsp://localhost:8554/its_its_3",
     "hls_url": "http://localhost:8888/its_its_3/index.m3u8"
   },
@@ -31,7 +31,7 @@
     "name": "[국도 43호선] 용인 매산리",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/4216/ZuZN334XFjpRAlNwnreFA9Imz5tam7ZRxU9LJt3VJZCVyvkiHoBK7ya1/aDLhot/mwDdFxV/BbmpZf6FinOLP8OttJMp+m8VdQX3TdzXKn0=",
+    "source_url": "https://cctvsec.ktict.co.kr/4216/ZuZN334XFjpRAlNwnreFA9Imz5tam7ZRxU9LJt3VJZCVyvkiHoBK7ya1/aDLhot/E6IL6WdVeRRFcebkLyVPUXqIc0KxLOFG49gH8f50Mqg=",
     "rtsp_url": "rtsp://localhost:8554/its_its_4",
     "hls_url": "http://localhost:8888/its_its_4/index.m3u8"
   },
@@ -40,7 +40,7 @@
     "name": "[국도 43호선] 광주 고산IC",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/4217/WAYVeWeJWcqJvZApaX5SphtoGN0ectWHfYi6OZFUuLBQga+zaFG9s1kgTJXM3Wufx9epNmgAROphPdkEbQzK1F3u9HGX7CrZSlf/TfJrlII=",
+    "source_url": "https://cctvsec.ktict.co.kr/4217/WAYVeWeJWcqJvZApaX5SphtoGN0ectWHfYi6OZFUuLBQga+zaFG9s1kgTJXM3WufIT9SRmp3HoPyn4UVHs9Z5OKi+fIRhTVxfAJedpX1Zqw=",
     "rtsp_url": "rtsp://localhost:8554/its_its_5",
     "hls_url": "http://localhost:8888/its_its_5/index.m3u8"
   },
@@ -49,7 +49,7 @@
     "name": "[국도 43호선] 용인 죽전동",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/4218/ljP9yeR0MpRSC2oR5VaSPzTRn2xdd9gS0TiYwlhBclwRVOteuxWhgoO7kynEDUEip67qP8vT3BzsrYpNN7mn7T/WZXns5/op8oDpx1AmYHQ=",
+    "source_url": "https://cctvsec.ktict.co.kr/4218/ljP9yeR0MpRSC2oR5VaSPzTRn2xdd9gS0TiYwlhBclwRVOteuxWhgoO7kynEDUEiWqzHpCmsZBIVYcJb2NDpYxTVxbOqpBsaoHRcfa3tlik=",
     "rtsp_url": "rtsp://localhost:8554/its_its_6",
     "hls_url": "http://localhost:8888/its_its_6/index.m3u8"
   },
@@ -58,7 +58,7 @@
     "name": "[국도 43호선] 광주 상번천리",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/4219/jX0ucG0xzP/nsraKO9aUdGq4sV+dJ0EgnFVvJLNNCiNPEq/22Xtm5/D/Ohv+h1NzJslREr5cIk+5A2l8aJvqkcDj0WhZRPam4u1zFD8TiYA=",
+    "source_url": "https://cctvsec.ktict.co.kr/4219/jX0ucG0xzP/nsraKO9aUdGq4sV+dJ0EgnFVvJLNNCiNPEq/22Xtm5/D/Ohv+h1Nzdj9GF82RAp8vrLUwA3IybZz8K3/iqZH2gnbGUgdAQhw=",
     "rtsp_url": "rtsp://localhost:8554/its_its_7",
     "hls_url": "http://localhost:8888/its_its_7/index.m3u8"
   },
@@ -67,7 +67,7 @@
     "name": "[국도 45호선] 용인 외국어대사거리",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/4231/Adpgw4hd5ay2pj8eW13OTD7q89hV9WiZMbta6Apy1PN8aU9eu8AW/wZS0YSSCrGMS7Vv9LTLGCPKoWCwX6X8kByFGH1rmC3AnZwPea/b28k=",
+    "source_url": "https://cctvsec.ktict.co.kr/4231/Adpgw4hd5ay2pj8eW13OTD7q89hV9WiZMbta6Apy1PN8aU9eu8AW/wZS0YSSCrGMUceobyO0s6go/YMZJyDau7M3HHNIzwF6/e3Bdk0T0Hw=",
     "rtsp_url": "rtsp://localhost:8554/its_its_8",
     "hls_url": "http://localhost:8888/its_its_8/index.m3u8"
   },
@@ -76,7 +76,7 @@
     "name": "[국도 45호선] 광주 도마삼거리",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/4232/u32kN2UM7opdzIxuXt+R6z+H18dkYMNyrX3wbd+xCxpWUmdVv4dKZAbTADJyvG+Wp+jF5h17A1sIhJcAM+FWG89i7MmT2FL+vGgczVuhwGA=",
+    "source_url": "https://cctvsec.ktict.co.kr/4232/u32kN2UM7opdzIxuXt+R6z+H18dkYMNyrX3wbd+xCxpWUmdVv4dKZAbTADJyvG+WEXwb3xfvZ/6p2bbnH+F8jcDyNN/PEoV00ntUW8aevLA=",
     "rtsp_url": "rtsp://localhost:8554/its_its_9",
     "hls_url": "http://localhost:8888/its_its_9/index.m3u8"
   },
@@ -85,7 +85,7 @@
     "name": "[국도 3호선] 성남 대원IC",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/4297/l7UJ2Xi9R/UXeeD/DuvCHQPJUPF0dl3nVDWS9ViuFGvFaFHtuXWQAPUyP6PavGJ6lIAIiUT1KFjaUYwAgxChSm4HXU8U04mTO0U62/4snr0=",
+    "source_url": "https://cctvsec.ktict.co.kr/4297/l7UJ2Xi9R/UXeeD/DuvCHQPJUPF0dl3nVDWS9ViuFGvFaFHtuXWQAPUyP6PavGJ6lLShLXIxf2Kj+uMzl/pGeozTlPi0+miy0SmQrnus2Es=",
     "rtsp_url": "rtsp://localhost:8554/its_its_10",
     "hls_url": "http://localhost:8888/its_its_10/index.m3u8"
   },
@@ -94,7 +94,7 @@
     "name": "[국도 3호선] 의정부 자금IC",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/4299/27L02Q4BQtbpZGTq5iJqf+ICx5IMVJrSYBwW5zUTzwqisrngxEst7NRiGHviXr8ZtonZihCPJE55UdsYfDwaLCEG5MGjHDeoJTMFYgeCJNQ=",
+    "source_url": "https://cctvsec.ktict.co.kr/4299/27L02Q4BQtbpZGTq5iJqf+ICx5IMVJrSYBwW5zUTzwqisrngxEst7NRiGHviXr8ZsARAHxvqRR1kZVvTivwnzaI0w/MJr9Lv0k5V7ARhZ3E=",
     "rtsp_url": "rtsp://localhost:8554/its_its_11",
     "hls_url": "http://localhost:8888/its_its_11/index.m3u8"
   },
@@ -103,7 +103,7 @@
     "name": "[국도 3호선] 의정부 장암IC",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/4300/JPZr7ILGmJWjHIEExIhliA9plgQTnTxF3lIhHxfrjThnMGVyAonz5DcVWm646iJbOjQW0BkRTs+E7j/nSjFzJYgutqO+ROKV5HCF9nB6rmw=",
+    "source_url": "https://cctvsec.ktict.co.kr/4300/JPZr7ILGmJWjHIEExIhliA9plgQTnTxF3lIhHxfrjThnMGVyAonz5DcVWm646iJb1hvUI032jf2gxxdhB+OrIlIcFIzToYEYrnk51vROq3w=",
     "rtsp_url": "rtsp://localhost:8554/its_its_12",
     "hls_url": "http://localhost:8888/its_its_12/index.m3u8"
   },
@@ -112,7 +112,7 @@
     "name": "[국도 39호선] 양주 일영리",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/4376/d8O8X9XmDrGkWaEN+mFXji/RDBjwHu8UeK/0rarQCoP9PRL/ZNtQusmJH74I7V1p3DC5LKuTJejoj8zOdHq3Didsw4gNsOpVWEL2ATOG4TM=",
+    "source_url": "https://cctvsec.ktict.co.kr/4376/d8O8X9XmDrGkWaEN+mFXji/RDBjwHu8UeK/0rarQCoP9PRL/ZNtQusmJH74I7V1pao3hvmgaWCV6RH/5ppsyEYxeyr5LO+DbGs+HIUj/CLU=",
     "rtsp_url": "rtsp://localhost:8554/its_its_13",
     "hls_url": "http://localhost:8888/its_its_13/index.m3u8"
   },
@@ -121,7 +121,7 @@
     "name": "[국도 39호선] 양주 울대고개교차로",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/4403/iv8ozHahZHnGOuxFUGs2V5F9DoP61BjHohxBKWsd0Wt6U4u8vx3NovYliKpObp/rcG7vhjnavFOm4trrM75fUh3feaRUmZ+abWKwEnJ8hgU=",
+    "source_url": "https://cctvsec.ktict.co.kr/4403/iv8ozHahZHnGOuxFUGs2V5F9DoP61BjHohxBKWsd0Wt6U4u8vx3NovYliKpObp/rpW3gwcIz3FBDQDNDhrPoPw9XKEiqR3FV4WXsl4Ut040=",
     "rtsp_url": "rtsp://localhost:8554/its_its_14",
     "hls_url": "http://localhost:8888/its_its_14/index.m3u8"
   },
@@ -130,7 +130,7 @@
     "name": "[국도 6호선] 남양주 팔당대교IC",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/4405/Fgrs17BD3sEdHmVmnEDcgnJE29L78MW9eJ4whCqwzejFra2xxooQHFToMJukbl1Cf1g9iG2G5lZhtXtfJukuuwkWOBHP/u3dJC1BAIsRuhg=",
+    "source_url": "https://cctvsec.ktict.co.kr/4405/Fgrs17BD3sEdHmVmnEDcgnJE29L78MW9eJ4whCqwzejFra2xxooQHFToMJukbl1C5jvNd9YXGDPlNJM5cMsQIX7s1+vQd1GBPyXKmhvzxiM=",
     "rtsp_url": "rtsp://localhost:8554/its_its_15",
     "hls_url": "http://localhost:8888/its_its_15/index.m3u8"
   },
@@ -139,7 +139,7 @@
     "name": "[국도 6호선] 남양주 도곡IC",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/4408/UrAzNjaayQQJ39lr/msQCm65MVmphQYMA4PKKVqUTg0/dpvZ3YaTQu01Uq2UAJsIvk/r7oOcnkQdd53/X5N3+kKW6j04EemPNnAMjBkQZOU=",
+    "source_url": "https://cctvsec.ktict.co.kr/4408/UrAzNjaayQQJ39lr/msQCm65MVmphQYMA4PKKVqUTg0/dpvZ3YaTQu01Uq2UAJsIIMVkWSaWENOCSXJunxttfI1M/4OGw+IyRzxPThqUGec=",
     "rtsp_url": "rtsp://localhost:8554/its_its_16",
     "hls_url": "http://localhost:8888/its_its_16/index.m3u8"
   },
@@ -148,7 +148,7 @@
     "name": "[국도 6호선] 남양주 팔당1터널",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/4411/D5o2pI2HMOJCs6SRlnU48pnBTC0Wb6KppQdqDvuJMcGS4Rs0o6km22/k3OwnrEL5BrgnSqTY3sxMcRwll+GodrvXE2TAXUCKlK98T2XkEbY=",
+    "source_url": "https://cctvsec.ktict.co.kr/4411/D5o2pI2HMOJCs6SRlnU48pnBTC0Wb6KppQdqDvuJMcGS4Rs0o6km22/k3OwnrEL5nk/xQqERvRimz+TpbWiGl2SJnIu6prmlDirZWI7Vvr8=",
     "rtsp_url": "rtsp://localhost:8554/its_its_17",
     "hls_url": "http://localhost:8888/its_its_17/index.m3u8"
   },
@@ -157,7 +157,7 @@
     "name": "[국도 48호선] 김포 태리교차로",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/4698/NeDjxsmOnCedasv7QAD9MDBUtWsQrW4P+V+dictSaLYgjjNRRUFOeUak1u4f0CO4ODI5jW9QB4P19gM09rUiFRefj3qcoVe8sgFBgm5skEw=",
+    "source_url": "https://cctvsec.ktict.co.kr/4698/NeDjxsmOnCedasv7QAD9MDBUtWsQrW4P+V+dictSaLYgjjNRRUFOeUak1u4f0CO4pcH+SkIZLos0stW3dvUgBiGWO9W4DT1QmF93fdHHLK4=",
     "rtsp_url": "rtsp://localhost:8554/its_its_18",
     "hls_url": "http://localhost:8888/its_its_18/index.m3u8"
   },
@@ -166,7 +166,7 @@
     "name": "[국도46호선] 남양주 사릉IC",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/4802//n6+6IiO/5OXjZa48jT/kFLir0Y8XJdDZXnHEIQ8Qy3eqr4J+17bZtRrUzPXFx1VXafkY7dNtxnzQYxbIFZNbwezwEQ+exp+dgSxRon3lJs=",
+    "source_url": "https://cctvsec.ktict.co.kr/4802//n6+6IiO/5OXjZa48jT/kFLir0Y8XJdDZXnHEIQ8Qy3eqr4J+17bZtRrUzPXFx1VvCv74heFeBmF4qTpwq2Bz8aC1mHBLS6HEsFwmHzv4PY=",
     "rtsp_url": "rtsp://localhost:8554/its_its_19",
     "hls_url": "http://localhost:8888/its_its_19/index.m3u8"
   },
@@ -175,7 +175,7 @@
     "name": "[국도 46호선] 남양주 호평IC",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/4803/ShpV+N9tOpY2754N8T8qJjRj796S98vaXUOqUq6j8E2RlpoRr2MpVOxSD6N8cy3i1td3ZbAqyLWSCSY9mStHZf1rZ9kdjADZd0azT8Zc5WE=",
+    "source_url": "https://cctvsec.ktict.co.kr/4803/ShpV+N9tOpY2754N8T8qJjRj796S98vaXUOqUq6j8E2RlpoRr2MpVOxSD6N8cy3iWNJZxch1z2BW+sfAEcb/lDVtEDJGk7djmR08fuP5K5w=",
     "rtsp_url": "rtsp://localhost:8554/its_its_20",
     "hls_url": "http://localhost:8888/its_its_20/index.m3u8"
   },
@@ -184,7 +184,7 @@
     "name": "[국도46호선] 남양주 호평IC 서쪽",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/4804/ortJpK2lvC9ocQgr86fTqM5ohTzJWjyM5BoaV+DbvJesjygA7A8x5FPUhRTeVyB6I5uH/WvwimzeT0Q3lUqZ+GRT5GMXMuhmZvvKhj5/TaI=",
+    "source_url": "https://cctvsec.ktict.co.kr/4804/ortJpK2lvC9ocQgr86fTqM5ohTzJWjyM5BoaV+DbvJesjygA7A8x5FPUhRTeVyB6nlCgueQrRKXTSnwWZFGu6VtPBHxcx+CeAbdg6eZG5Ic=",
     "rtsp_url": "rtsp://localhost:8554/its_its_21",
     "hls_url": "http://localhost:8888/its_its_21/index.m3u8"
   },
@@ -193,7 +193,7 @@
     "name": "[국도 3호선] 양주 광사IC",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/4822/haDa3DdasHsBp7Av0VXwYdcjyfwLi03FjH92XUfEI1V3eoAGFJtpetZcGYC7xuY4//cp4DOv2+8GkiD8jWFgJO1NpnMj8jErBHmwg40EAtQ=",
+    "source_url": "https://cctvsec.ktict.co.kr/4822/haDa3DdasHsBp7Av0VXwYdcjyfwLi03FjH92XUfEI1V3eoAGFJtpetZcGYC7xuY4bZTKobnUKw4w6J/bYVva3o8qMB2lgsBo8vksx4gPCdw=",
     "rtsp_url": "rtsp://localhost:8554/its_its_22",
     "hls_url": "http://localhost:8888/its_its_22/index.m3u8"
   },
@@ -202,7 +202,7 @@
     "name": "[국도3호선] 광주 쌍동IC_상행",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/4878/RCG9mUo6RcgQFexmRRs69TUViWMRTs2gxtNmbRnY4HBGryDh9u0axGwTuu/z27HX28g5vBzZ3CYfvjigzGbEoU2vWfzxQzkfUfkxFulNcv0=",
+    "source_url": "https://cctvsec.ktict.co.kr/4878/RCG9mUo6RcgQFexmRRs69TUViWMRTs2gxtNmbRnY4HBGryDh9u0axGwTuu/z27HXsagIqY4aD7ZX6g5QRNWl/7rW8a5PkBJXH72xL1hZ0xw=",
     "rtsp_url": "rtsp://localhost:8554/its_its_23",
     "hls_url": "http://localhost:8888/its_its_23/index.m3u8"
   },
@@ -211,7 +211,7 @@
     "name": "[국도3호선] 광주 쌍동IC_하행",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/4879/G49nSPdjaJKa8va2vV/zAynnDGvHhCek6Oi0yJtjqmG5W/+eRprRX4G4SeNCGCJziLL1SpbcPQTnTzRn7zcrPoexEwAbRT6W2+rG+HN1Iy8=",
+    "source_url": "https://cctvsec.ktict.co.kr/4879/G49nSPdjaJKa8va2vV/zAynnDGvHhCek6Oi0yJtjqmG5W/+eRprRX4G4SeNCGCJzshNdpwsCFVAzAzm8GFt4hmIR/+zY/3mJzlGBP1sjMos=",
     "rtsp_url": "rtsp://localhost:8554/its_its_24",
     "hls_url": "http://localhost:8888/its_its_24/index.m3u8"
   },
@@ -220,7 +220,7 @@
     "name": "[국도 3호선] 의정부 민락교차로",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/5359/0Gj0EjH9XKMiyRvFBhhf0yaPZsKJIejBso8rIjS/725+JZeQLt/sAJGWVHLJ8kdqZBJ+gOJz69KmqpBR8Q9mzAXY/02GjqT/+QV6Jbc3Rc8=",
+    "source_url": "https://cctvsec.ktict.co.kr/5359/0Gj0EjH9XKMiyRvFBhhf0yaPZsKJIejBso8rIjS/725+JZeQLt/sAJGWVHLJ8kdqJcvb+qvxPRLzlNGyEaU055aKwX5XDkmgEx6rherdQgA=",
     "rtsp_url": "rtsp://localhost:8554/its_its_25",
     "hls_url": "http://localhost:8888/its_its_25/index.m3u8"
   },
@@ -229,7 +229,7 @@
     "name": "[국도 43호선] 남양주 광전IC",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/5384/bGY3AczmHkrhzCTKjGFPDvWeC5XgH5Bls9CfSj5k01yUafhrA+zkjg26EiISE1Cn8COAUVPAnozxIPva5Kz2dC1nlNwzsPRjO0C5qgZa3y0=",
+    "source_url": "https://cctvsec.ktict.co.kr/5384/bGY3AczmHkrhzCTKjGFPDvWeC5XgH5Bls9CfSj5k01yUafhrA+zkjg26EiISE1CnsHEQj5mT/Ec2FhjYDx5AxIEN7G52B1GQWo6uaD5pZ4A=",
     "rtsp_url": "rtsp://localhost:8554/its_its_26",
     "hls_url": "http://localhost:8888/its_its_26/index.m3u8"
   },
@@ -238,7 +238,7 @@
     "name": "[국도 46호선] 남양주 마석터널관리소 앞",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/5403/i9Z5TqytcWyVInKDa0geduyNBLRpk7R6jkTf5Dqdszb5oclNjja3RinC9MadBN4KNl5G7iVrdJVt66GGWWwqLI7YouzpoT9/gmjmX3LuJes=",
+    "source_url": "https://cctvsec.ktict.co.kr/5403/i9Z5TqytcWyVInKDa0geduyNBLRpk7R6jkTf5Dqdszb5oclNjja3RinC9MadBN4KpGV4wbBg2+7vQJLIlT5h7KSoO28dIf2EbcQWfCsce/s=",
     "rtsp_url": "rtsp://localhost:8554/its_its_27",
     "hls_url": "http://localhost:8888/its_its_27/index.m3u8"
   },
@@ -247,7 +247,7 @@
     "name": "[국도39호선] 양주 장흥터널관리사무소 앞",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/5426/0/AlfdB5sd0sKg6FyPBmUm/DWOhqQrjZQ5X/o2vBBll5igKYjDw5F0cAtx6RAE3Tg5dKA4xv+3YXjBQxlz1CURADTH1g8kfdpt12EXhKC4I=",
+    "source_url": "https://cctvsec.ktict.co.kr/5426/0/AlfdB5sd0sKg6FyPBmUm/DWOhqQrjZQ5X/o2vBBll5igKYjDw5F0cAtx6RAE3Tnt4wj97gKNQpaq4EdpI4HDvIGHaHNbWHrmcu9Tktlv4=",
     "rtsp_url": "rtsp://localhost:8554/its_its_28",
     "hls_url": "http://localhost:8888/its_its_28/index.m3u8"
   },
@@ -256,7 +256,7 @@
     "name": "[국도 43호선] 광주 은고개",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/5429/pwDzbGGgvVN7oGXWMo23F/DKfhPKUDACP7gXLg+SLxeKSKqIk8RN+y+mRCCNfxbJjHdiLd2kWlJrFKyMoPP10svDBV9PJFPMSaMiGsm4j+o=",
+    "source_url": "https://cctvsec.ktict.co.kr/5429/pwDzbGGgvVN7oGXWMo23F/DKfhPKUDACP7gXLg+SLxeKSKqIk8RN+y+mRCCNfxbJyhdnUIa2kInSLzBAz8rtnj5jWZTwtvzZpeunPXW5Nrk=",
     "rtsp_url": "rtsp://localhost:8554/its_its_29",
     "hls_url": "http://localhost:8888/its_its_29/index.m3u8"
   },
@@ -265,7 +265,7 @@
     "name": "[국도 6호선] 남양주 팔당4터널앞",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/5437/9FkrZavKh9NeSGZx9bM0ADyvWWBWMd2skIfw5mXwIOU0bWrYW8VUIETm+hs7RoMkgS2L0XIyAoPyKt38Ya27lN1MMWt5uwLueUJiUpotWqY=",
+    "source_url": "https://cctvsec.ktict.co.kr/5437/9FkrZavKh9NeSGZx9bM0ADyvWWBWMd2skIfw5mXwIOU0bWrYW8VUIETm+hs7RoMkB1K2csA7I5ocI2GSqPt4Rub93BPJB1/yzlIl5KBjuqw=",
     "rtsp_url": "rtsp://localhost:8554/its_its_30",
     "hls_url": "http://localhost:8888/its_its_30/index.m3u8"
   },
@@ -274,7 +274,7 @@
     "name": "[국도 46호선] 남양주 진관IC",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/5455/FO3kWgZFKuRrQBAI/+PMYwxUFBsFQIZU/kM+9oR6RuTDnR2dnTDSp3yXmws3fN6kNAvOlMDGXm+KUWJvM+eCmEHUpNFTmGF6Vq7yygFwSxg=",
+    "source_url": "https://cctvsec.ktict.co.kr/5455/FO3kWgZFKuRrQBAI/+PMYwxUFBsFQIZU/kM+9oR6RuTDnR2dnTDSp3yXmws3fN6kO0SERdfB79ayJFq9EN2XIZptAfwNwUgVFxDx9WFg1ko=",
     "rtsp_url": "rtsp://localhost:8554/its_its_31",
     "hls_url": "http://localhost:8888/its_its_31/index.m3u8"
   },
@@ -283,7 +283,7 @@
     "name": "[국도 47호선] [국도 47호선] 남양주 임송IC",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/5483/fZf5dA3sLdcjdSMj+jLNuHeto6hK2Wq6xDQnJYwaGWxut62iTHkwEIaT+uQSLmdgpLtiAqozowsqorJZbZ9W3EUjT3fhqR7xDm8pzbLmOrM=",
+    "source_url": "https://cctvsec.ktict.co.kr/5483/fZf5dA3sLdcjdSMj+jLNuHeto6hK2Wq6xDQnJYwaGWxut62iTHkwEIaT+uQSLmdgvXERPJNzZaBvim9mQ4wg4t4j9iTDoM0g8/Uqf03S0ek=",
     "rtsp_url": "rtsp://localhost:8554/its_its_32",
     "hls_url": "http://localhost:8888/its_its_32/index.m3u8"
   },
@@ -292,7 +292,7 @@
     "name": "[국도 47호선] [국도 47호선] 남양주 연평IC",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/5484//NhiYJ4uQlRydOlQ2dnG7rZxgPiUNt+rKIgdz1ZQHxW/daGm5u0OlvwA/o+Qe+nRFLAue+lMKG5a6Ksa8xE6MDN/dT1apyzKxTbQ44LzXbk=",
+    "source_url": "https://cctvsec.ktict.co.kr/5484//NhiYJ4uQlRydOlQ2dnG7rZxgPiUNt+rKIgdz1ZQHxW/daGm5u0OlvwA/o+Qe+nRt0dpDY8481aYzT8Azd3+ka00TjhX8jdxcg6ZW+paZuE=",
     "rtsp_url": "rtsp://localhost:8554/its_its_33",
     "hls_url": "http://localhost:8888/its_its_33/index.m3u8"
   },
@@ -301,7 +301,7 @@
     "name": "[국도 47호선] [국도 47호선] 남양주 장현IC",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/5485/KKWqQsNiiE/kHnb7ymJBtE3fQj/xeeWigKQ4SgVelHS87GaiMBeIX4Uxz0KOar8EGv8hKJOqzhR0CrseMLS5b4L9UcQZbmd/a3zoAOg+FSo=",
+    "source_url": "https://cctvsec.ktict.co.kr/5485/KKWqQsNiiE/kHnb7ymJBtE3fQj/xeeWigKQ4SgVelHS87GaiMBeIX4Uxz0KOar8EUPU/NcYKen4Zy8DD5RuYqREnx6ZuRio22dnHLMZ39LM=",
     "rtsp_url": "rtsp://localhost:8554/its_its_34",
     "hls_url": "http://localhost:8888/its_its_34/index.m3u8"
   },
@@ -310,7 +310,7 @@
     "name": "[국도 47호선] [국도 47호선] 남양주 신월IC",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/5486/4RMRQ93Zm8W3s5qmOG3sf5lkfV14UxqReFplzuWIj2YLy6TxrH92a+yVOvekKpxLyKlQkbopDUSB5fJQ3QLejViXgJHEa++BXE1ENUz6ZC0=",
+    "source_url": "https://cctvsec.ktict.co.kr/5486/4RMRQ93Zm8W3s5qmOG3sf5lkfV14UxqReFplzuWIj2YLy6TxrH92a+yVOvekKpxLUe72INXwve/SOk9LekKxxsPbkFWNYsq+U80iw7SVkCE=",
     "rtsp_url": "rtsp://localhost:8554/its_its_35",
     "hls_url": "http://localhost:8888/its_its_35/index.m3u8"
   },
@@ -319,7 +319,7 @@
     "name": "[국도 47호선] 남양주 연평교",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/5497/CuX/SBU5eHAkOjhbPHWsapt+ckbtCFIIDFJYcjz7vSSZN8oLrJThw8PpQfdIpia1k9bPnKHyk9bafS17GBPsxADFwUWIXcTuaBU2ah/pFz4=",
+    "source_url": "https://cctvsec.ktict.co.kr/5497/CuX/SBU5eHAkOjhbPHWsapt+ckbtCFIIDFJYcjz7vSSZN8oLrJThw8PpQfdIpia1VFtA6Yc7eBDu59RS0xiOnGT44a7U2Ss1rc5/5kRbpv4=",
     "rtsp_url": "rtsp://localhost:8554/its_its_36",
     "hls_url": "http://localhost:8888/its_its_36/index.m3u8"
   },
@@ -328,7 +328,7 @@
     "name": "[국도 48호선] 김포 김포IC입구",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/5581/1Fknya2odoTRvjouzBgoF6TXZr4rb8ogiOSw8cVonJZgslawUf0e/VcxEHRzrDRHdDaZGWr4Za1HF1AJS6l7ewR8b//zB9+EzDg2Dn7zoqY=",
+    "source_url": "https://cctvsec.ktict.co.kr/5581/1Fknya2odoTRvjouzBgoF6TXZr4rb8ogiOSw8cVonJZgslawUf0e/VcxEHRzrDRHlUaTy3tQ+U9SSIzu0rjiMRbOmc0NhAuHWqLp+m3yuoc=",
     "rtsp_url": "rtsp://localhost:8554/its_its_37",
     "hls_url": "http://localhost:8888/its_its_37/index.m3u8"
   },
@@ -337,7 +337,7 @@
     "name": "[국도 48호선] 김포 고촌IC",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/5582/CAa4ymSCvceDeQi3KxcE+drGQ45/zlsCFAylsCa4z6QFqH6wSFqlltCCsX4aAEP+dMtH+D+UrYERGgOJTpuau/cR415+FNjF5yRDvI3oWJI=",
+    "source_url": "https://cctvsec.ktict.co.kr/5582/CAa4ymSCvceDeQi3KxcE+drGQ45/zlsCFAylsCa4z6QFqH6wSFqlltCCsX4aAEP+CKV7qm7po65Yy7ckomxMza5RwJUjz0hwMU83Kq7xAT8=",
     "rtsp_url": "rtsp://localhost:8554/its_its_38",
     "hls_url": "http://localhost:8888/its_its_38/index.m3u8"
   },
@@ -346,7 +346,7 @@
     "name": "[국도 48호선] 김포 향산교차로",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/5583/6Y3ubgJFkpgtw9tgLHIS8ebPBpNA7IeGNgD1HHC8JZWITAXkfBbbATZQJzPYobaO0umisOWNZWIM8NBFHW1cpqzMEms7yKqkL6OvXtnvgs8=",
+    "source_url": "https://cctvsec.ktict.co.kr/5583/6Y3ubgJFkpgtw9tgLHIS8ebPBpNA7IeGNgD1HHC8JZWITAXkfBbbATZQJzPYobaOUz5UsjYx4/cv7v/OqRGNYSXZ/Gagim2R905+rVw+x8I=",
     "rtsp_url": "rtsp://localhost:8554/its_its_39",
     "hls_url": "http://localhost:8888/its_its_39/index.m3u8"
   },
@@ -355,7 +355,7 @@
     "name": "[국도 48호선] 김포 천등교차로",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/5608/hOhHkKL/sSlcFU6uoOb1x9qNJ+dWO9idzgp/0hjRn8YKkcLTVsTD3fcRUWg/+f97ZIkGZ3JtgwQirpLNSmFIHgB1EW4+5ALhf32Qzug25rc=",
+    "source_url": "https://cctvsec.ktict.co.kr/5608/hOhHkKL/sSlcFU6uoOb1x9qNJ+dWO9idzgp/0hjRn8YKkcLTVsTD3fcRUWg/+f97fWhb+qbQEGnfpO/nQILANqNbUIU5Infs+EDI2sfhhZQ=",
     "rtsp_url": "rtsp://localhost:8554/its_its_40",
     "hls_url": "http://localhost:8888/its_its_40/index.m3u8"
   },
@@ -364,7 +364,7 @@
     "name": "[국도3] 광주 쌍동분기점",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/41214/WljLjFwBfHazAdH1rRj7hZvbeyb0GxZwVu15Xriwkmtb5EFkBvoVdjKwMJoqLmMaK1WYytgRM/tWct7Tg9tBQBKC2oma+JYfblWJmDIoeVw=",
+    "source_url": "https://cctvsec.ktict.co.kr/41214/WljLjFwBfHazAdH1rRj7hZvbeyb0GxZwVu15Xriwkmtb5EFkBvoVdjKwMJoqLmMac+JklwNlPd1mo3kVZFbUOOiHFVgiiCF0cU7PXdHX2GY=",
     "rtsp_url": "rtsp://localhost:8554/its_its_41",
     "hls_url": "http://localhost:8888/its_its_41/index.m3u8"
   },
@@ -373,7 +373,7 @@
     "name": "[국도39] 양주 장흥1교",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/41228/gnZvk98/lU+XT1rrxFYFWLFrlQqWtP+lHhrqqKcD2fXlyn5LzTQwPmak400IA9RDWkuZ8NOH9EKbyrVLDJsMSGnUuequgqOIk1HhChbwSsQ=",
+    "source_url": "https://cctvsec.ktict.co.kr/41228/gnZvk98/lU+XT1rrxFYFWLFrlQqWtP+lHhrqqKcD2fXlyn5LzTQwPmak400IA9RDs69hrFsV3QHsMpsffBdCaeiCkBgkDIg7pKJvMVEnlCg=",
     "rtsp_url": "rtsp://localhost:8554/its_its_42",
     "hls_url": "http://localhost:8888/its_its_42/index.m3u8"
   },
@@ -382,7 +382,7 @@
     "name": "[국도45] 용인 모산마을입구삼거리",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/41246/lnxbGmKV4c5bohK2RMhjVrlKRkcEkgzmibHbdkbP+AEYsz/SBeBIwD86MrIX2uPEux2lOT+5iER5WZPWegyos+uDIe7gyIY7KLC/QISU51M=",
+    "source_url": "https://cctvsec.ktict.co.kr/41246/lnxbGmKV4c5bohK2RMhjVrlKRkcEkgzmibHbdkbP+AEYsz/SBeBIwD86MrIX2uPEdwcs4XMuMLwnggmqW2kUBFLN4/lqO8G1wggTDU/TDIA=",
     "rtsp_url": "rtsp://localhost:8554/its_its_43",
     "hls_url": "http://localhost:8888/its_its_43/index.m3u8"
   },
@@ -391,7 +391,7 @@
     "name": "[국도45] 용인 초부리휴게소사거리",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/41247/aO1uTzLzABVxc+oOt958Kz4VDrwvQNN4IoOWdCSv0fwq7nRfkygOpN8gT0h3R9ANmai90JwIpPcUWZwEitjPJFwHRERBFQmeAUt4VadTdxU=",
+    "source_url": "https://cctvsec.ktict.co.kr/41247/aO1uTzLzABVxc+oOt958Kz4VDrwvQNN4IoOWdCSv0fwq7nRfkygOpN8gT0h3R9ANEXCGvlwlm2XzrKafRo0ohO+8cZKeVRXTVSb2Y92RKzA=",
     "rtsp_url": "rtsp://localhost:8554/its_its_44",
     "hls_url": "http://localhost:8888/its_its_44/index.m3u8"
   },
@@ -400,7 +400,7 @@
     "name": "[국도47호선] 포천 내촌육교",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/71000/CWnNNpzP3Hc8avwREsWVraen8j0Aum9cKr0tu4h3G/iRNz3cbdqOzEpA1+EkZhejyJQ0/PgN31Pwo68LohVLWxdYne763br0q0a8Te2fAEc=",
+    "source_url": "https://cctvsec.ktict.co.kr/71000/CWnNNpzP3Hc8avwREsWVraen8j0Aum9cKr0tu4h3G/iRNz3cbdqOzEpA1+EkZhejGcsfkPQxcFD+RAtOMN+BhuHdNk3hWLIuBnt9+eHQH4E=",
     "rtsp_url": "rtsp://localhost:8554/its_its_45",
     "hls_url": "http://localhost:8888/its_its_45/index.m3u8"
   },
@@ -409,7 +409,7 @@
     "name": "[국도47호선] 남양주 진벌교차로",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/71001/XZn2mReoPeIaQhGoR8TPgh9eBqQXBMugA3Tl8HaqpDfthXFDhyOa6aB/oUNQ2T2ITRG08lEsW4B/K8vtsvLc1cuVyrpLgVGUWkoBo2CFrhw=",
+    "source_url": "https://cctvsec.ktict.co.kr/71001/XZn2mReoPeIaQhGoR8TPgh9eBqQXBMugA3Tl8HaqpDfthXFDhyOa6aB/oUNQ2T2IS7zmEBfcovl01SNiDtMO//rFr3MkEYyTcki1seuU4kA=",
     "rtsp_url": "rtsp://localhost:8554/its_its_46",
     "hls_url": "http://localhost:8888/its_its_46/index.m3u8"
   },
@@ -418,7 +418,7 @@
     "name": "[국도39호선] 고양 주교IC",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/71014/SyVfuimfSYb397ykGGvx6+DEvsToGi5tiC871QNJe09WUAzXE/r7AB1hjPAPEYwr7lFDcU4mKwUCq2YaK+beXHMUTp0W0ic/vramzTyzAZ4=",
+    "source_url": "https://cctvsec.ktict.co.kr/71014/SyVfuimfSYb397ykGGvx6+DEvsToGi5tiC871QNJe09WUAzXE/r7AB1hjPAPEYwrChBwFF9bdY7tTPGhovVqC69uH5YSFwtQS73mI/gql3Q=",
     "rtsp_url": "rtsp://localhost:8554/its_its_47",
     "hls_url": "http://localhost:8888/its_its_47/index.m3u8"
   },
@@ -427,7 +427,7 @@
     "name": "[국도39호선] 고양 고봉교",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/71015/MAAZMYD/MpR8rs+I/7n6Tgu5sw1+PLk0S6CmJqIv7LUv8lY50I7GIIzOaaAiMcwTTy0Fhq9yLdv6g02ePj/jjtUDcQPKIHvUWXbUGVLmotQ=",
+    "source_url": "https://cctvsec.ktict.co.kr/71015/MAAZMYD/MpR8rs+I/7n6Tgu5sw1+PLk0S6CmJqIv7LUv8lY50I7GIIzOaaAiMcwTosNV8N/a1vrq1YavpIyGicu/ZzYs/Rb9Sq+AyP0KiYI=",
     "rtsp_url": "rtsp://localhost:8554/its_its_48",
     "hls_url": "http://localhost:8888/its_its_48/index.m3u8"
   },
@@ -436,7 +436,7 @@
     "name": "[국도1호선] 파주 파주여고 앞",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/71293/qOjvHXvF9AOrrR82zwlu9yZs8RZkr/lhlhkkrxKk2dHCajOfa5wwJ4Z0Kl+na2PIxkHKjmgw628quVRfRdEkGtRFcVueO0H9Nx056fZzZAI=",
+    "source_url": "https://cctvsec.ktict.co.kr/71293/qOjvHXvF9AOrrR82zwlu9yZs8RZkr/lhlhkkrxKk2dHCajOfa5wwJ4Z0Kl+na2PI5B/OZ48cQec52fhANhX6TUJ5OuQPMt02d0dYFuM6Fvo=",
     "rtsp_url": "rtsp://localhost:8554/its_its_49",
     "hls_url": "http://localhost:8888/its_its_49/index.m3u8"
   },
@@ -445,7 +445,7 @@
     "name": "[국도43호선] 광주 엄미리계곡삼거리",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/71295/itIL5Cf0BNv5egL7o0zc4Q4KGmLdMFSAz7o7uXBbnJi7KRp3qqwuCa2A68qhSSwrgXD09cu8Q068CiluMD4zTiHhtRlqeTeoVLhZ/QjS5bk=",
+    "source_url": "https://cctvsec.ktict.co.kr/71295/itIL5Cf0BNv5egL7o0zc4Q4KGmLdMFSAz7o7uXBbnJi7KRp3qqwuCa2A68qhSSwrQchBH28Bwr57nbn3lFEc3tp1B3RUc9Or7FNru/6HpsM=",
     "rtsp_url": "rtsp://localhost:8554/its_its_50",
     "hls_url": "http://localhost:8888/its_its_50/index.m3u8"
   },
@@ -454,7 +454,7 @@
     "name": "[국도3호선] 의정부 장암고가교",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/71303/l7J3+zqM3t0XmbEoAyE70W/49cPT1Z2a4VHSkQVcSJ9EYfXyLXDQdEPUxXNbXyQNCOosVJmO6Bns79ul+3RCiM2Obx+hmG2bmVSecEgpEPs=",
+    "source_url": "https://cctvsec.ktict.co.kr/71303/l7J3+zqM3t0XmbEoAyE70W/49cPT1Z2a4VHSkQVcSJ9EYfXyLXDQdEPUxXNbXyQNzMf/chAJ3rT2svxolkHmzxYVXZLjWlks+E06xCuGPig=",
     "rtsp_url": "rtsp://localhost:8554/its_its_51",
     "hls_url": "http://localhost:8888/its_its_51/index.m3u8"
   },
@@ -463,7 +463,7 @@
     "name": "[국도6호선] 남양주 동막골입구교차로",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/71307/tGYgNQ3aeL5HUeBt1Ag20hO1Ekc0NtLO14dVM0SLfgrBuzhlsqPPtQGLL1xlNPjHKI44rFUQJiUQfVWAr+dZ+aIAQQsiiTGkgu1uicXy12I=",
+    "source_url": "https://cctvsec.ktict.co.kr/71307/tGYgNQ3aeL5HUeBt1Ag20hO1Ekc0NtLO14dVM0SLfgrBuzhlsqPPtQGLL1xlNPjHX8rOzdzL6LqTkOgJq9Ixx6otq+HxKU0ipIb7Ra02WkE=",
     "rtsp_url": "rtsp://localhost:8554/its_its_52",
     "hls_url": "http://localhost:8888/its_its_52/index.m3u8"
   },
@@ -472,7 +472,7 @@
     "name": "[국도6호선] 남양주 한강시민공원(팔당)",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/71308/Kl4Won85YQ57dhm0FEuJsxZyVZsOU/CTUNlKjlnASXNhjW0jcB69ayZ5UhGT71eG8yEFJry49nv20X98Pt460uWyIao4MdhPSOg9pyoxsPU=",
+    "source_url": "https://cctvsec.ktict.co.kr/71308/Kl4Won85YQ57dhm0FEuJsxZyVZsOU/CTUNlKjlnASXNhjW0jcB69ayZ5UhGT71eG3k72hFUpavEvAiRAL91xYYe2I3CH5BwC7XjqycImUTs=",
     "rtsp_url": "rtsp://localhost:8554/its_its_53",
     "hls_url": "http://localhost:8888/its_its_53/index.m3u8"
   },
@@ -481,7 +481,7 @@
     "name": "[국도43호선] 광주 오포읍사무소",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/71359/MQ90dT/oaIgZPTAyoaDUUxH6F+LZ/YZc+evjgonnGFQW9LsOO8/XE+gsFSfp9/Dhlr6YuURuHxoJMnkR0/BZQ+wSTXY62MIXw89Ps9uz8VY=",
+    "source_url": "https://cctvsec.ktict.co.kr/71359/MQ90dT/oaIgZPTAyoaDUUxH6F+LZ/YZc+evjgonnGFQW9LsOO8/XE+gsFSfp9/Dhqa6YuzU9BGx3CoJllqGF4uti2o1HbTnDeQ3hC3TncHM=",
     "rtsp_url": "rtsp://localhost:8554/its_its_54",
     "hls_url": "http://localhost:8888/its_its_54/index.m3u8"
   },
@@ -490,7 +490,7 @@
     "name": "[국도43호선] 용인 능원1교",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/71360/n20uLJWRF82ISd0v7KxesQ/Mdycq6ED8U03Dp81LpKVgHhZ1n6qautjiavVgBYxDCPf6WVWdMuohggenDNZsD2qpl3eMeRZdvCE33nqkEQM=",
+    "source_url": "https://cctvsec.ktict.co.kr/71360/n20uLJWRF82ISd0v7KxesQ/Mdycq6ED8U03Dp81LpKVgHhZ1n6qautjiavVgBYxDIFwmRuafB7PbHVMOo2wc6S+Zok8tgNp4CFm2KOjKKJg=",
     "rtsp_url": "rtsp://localhost:8554/its_its_55",
     "hls_url": "http://localhost:8888/its_its_55/index.m3u8"
   },
@@ -499,7 +499,7 @@
     "name": "[국도43호선] 광주 광지원초교",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/71362/h+0L0dajTHE36s1XCmixDEUTFFwutEz1v+aDvb5nhZJzo7l4OU7+J5fr+xtCds584QYPvwyXWfUxAlmwO0wz5pwilxslczEUwZ+qtH65XLc=",
+    "source_url": "https://cctvsec.ktict.co.kr/71362/h+0L0dajTHE36s1XCmixDEUTFFwutEz1v+aDvb5nhZJzo7l4OU7+J5fr+xtCds58vUpHw8f2VNN4/9te1Yd1dtAzk1s2beNwz9iuFipPbMY=",
     "rtsp_url": "rtsp://localhost:8554/its_its_56",
     "hls_url": "http://localhost:8888/its_its_56/index.m3u8"
   },
@@ -508,7 +508,7 @@
     "name": "[국도43호선] 용인 양촌교",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/71363/MhKM/Ip9rY0Rwmi8STpteSnVmA+V0jdy2aC30JTN5Nvxe61E4UdvQfpPLDQpMK+TvCv0BOPMHAhc9ddCa4tOnNHuwRoohUeMguY9UoZ/4SM=",
+    "source_url": "https://cctvsec.ktict.co.kr/71363/MhKM/Ip9rY0Rwmi8STpteSnVmA+V0jdy2aC30JTN5Nvxe61E4UdvQfpPLDQpMK+TMGjUG2oaEYvtYYM+vF0eB+AGpt0nLD2hCGFA9sA19E0=",
     "rtsp_url": "rtsp://localhost:8554/its_its_57",
     "hls_url": "http://localhost:8888/its_its_57/index.m3u8"
   },
@@ -517,7 +517,7 @@
     "name": "[국도43호선] 광주 문형2교",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/71364/KJQ/ctkr9TPPgoovjYtX9vW7RljPIMO0TeHydLBv5XELkvUtXm5I44HdQ4AoacB8QX0VllWIpzooDT4z6YSO2b0Fu5i+nXsCviMaY/Xo+Ws=",
+    "source_url": "https://cctvsec.ktict.co.kr/71364/KJQ/ctkr9TPPgoovjYtX9vW7RljPIMO0TeHydLBv5XELkvUtXm5I44HdQ4AoacB8Vb5g0QIh2UKg4Sbu4A5Z8XeaL2B7juTVvrwO2XNzsIo=",
     "rtsp_url": "rtsp://localhost:8554/its_its_58",
     "hls_url": "http://localhost:8888/its_its_58/index.m3u8"
   },
@@ -526,7 +526,7 @@
     "name": "[국도43호선] 남양주 청학터널 북측",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/71368/N3YMnbKSe3sw4/6IxzxB39QkYGYlh31CAkU5SddBKcc8vh2R0tQO2S9+uGQMTnxGHbHPDo2xSRMlCWwTSynGyo8XGXK2gRM+qTPKhlQEoiA=",
+    "source_url": "https://cctvsec.ktict.co.kr/71368/N3YMnbKSe3sw4/6IxzxB39QkYGYlh31CAkU5SddBKcc8vh2R0tQO2S9+uGQMTnxGfnWPYFspArBYEvC/MyxwDUUbwJxuw727Vmt1tDB9Jr0=",
     "rtsp_url": "rtsp://localhost:8554/its_its_59",
     "hls_url": "http://localhost:8888/its_its_59/index.m3u8"
   },
@@ -535,7 +535,7 @@
     "name": "[국도43호선] 남양주 청학터널 남측",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/71369/LuWjFwTPCfzSNZ9KJdvpjioORkTxefGocudv6jx6ZqinD4FYeaH9XF/vbzoDpoOKlGdMy7v5/D1R9QqptFXDlwDGbTgLafAkckw24ZEl6pY=",
+    "source_url": "https://cctvsec.ktict.co.kr/71369/LuWjFwTPCfzSNZ9KJdvpjioORkTxefGocudv6jx6ZqinD4FYeaH9XF/vbzoDpoOKvO1X/qD/xfq/tu3JFTbR7t8bWNh8weyJv5TUFyBZ3yw=",
     "rtsp_url": "rtsp://localhost:8554/its_its_60",
     "hls_url": "http://localhost:8888/its_its_60/index.m3u8"
   },
@@ -544,7 +544,7 @@
     "name": "[국도45호선] 용인 유운리입구삼거리",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/71370/+u7wTNA/U7/VTcTTPgsx/tw4WYCxUWWfvpyV31/PNhIJO/2+pGg+w7fbpEVHMmO2Vzdjat8X3RBoiRnFhIkbsXiDomobmuFMm783CTnvcjQ=",
+    "source_url": "https://cctvsec.ktict.co.kr/71370/+u7wTNA/U7/VTcTTPgsx/tw4WYCxUWWfvpyV31/PNhIJO/2+pGg+w7fbpEVHMmO2jA+KzP5Bg1MxT44Buh8/2Ujof+KagOsNZB3qxVs6XGY=",
     "rtsp_url": "rtsp://localhost:8554/its_its_61",
     "hls_url": "http://localhost:8888/its_its_61/index.m3u8"
   },
@@ -553,7 +553,7 @@
     "name": "[국도45호선] 용인 청광레미콘삼거리",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/71377//QA/N3CjRhuf33cOvtBW4gMKn298H3mzTlR4IxBGFrsfSdO42IH+ImrYqNByj9xra/S3bpH0vhYPFPXYQ+89+6LLJG4JE6KibdtkytHewFM=",
+    "source_url": "https://cctvsec.ktict.co.kr/71377//QA/N3CjRhuf33cOvtBW4gMKn298H3mzTlR4IxBGFrsfSdO42IH+ImrYqNByj9xrSo8fLKX4fqdkwmE+fmKvjPBFC4b3SzVPr5oABw1FbUM=",
     "rtsp_url": "rtsp://localhost:8554/its_its_62",
     "hls_url": "http://localhost:8888/its_its_62/index.m3u8"
   },
@@ -562,7 +562,7 @@
     "name": "[국도46호선] 남양주 적성교",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/71383/nivCO9HdfoLNEbqkClTDPCb7+qnvhK9BiNZlwep4zoUgjPeAgSi08GHG5nt93XwCHFjNIT+BBI2lbXplaGrA8buEcrCW4BVRM1EMkNTo03I=",
+    "source_url": "https://cctvsec.ktict.co.kr/71383/nivCO9HdfoLNEbqkClTDPCb7+qnvhK9BiNZlwep4zoUgjPeAgSi08GHG5nt93XwCz1fPQ5x5W1sxzzH34VyyBMZQceLga0DnSY6NRhaxQjs=",
     "rtsp_url": "rtsp://localhost:8554/its_its_63",
     "hls_url": "http://localhost:8888/its_its_63/index.m3u8"
   },
@@ -571,7 +571,7 @@
     "name": "[국도46호선] 남양주 사능1교",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/71384/9846hihVD2sWXQDDdvD7P6a7jyAFjvmxCj1d3mhTeHlQXFbQVkRpClxdXN5maxknc8zr1or0ZymryveXB0uL/ncCvAuMNM5jIvJNFdFNU3s=",
+    "source_url": "https://cctvsec.ktict.co.kr/71384/9846hihVD2sWXQDDdvD7P6a7jyAFjvmxCj1d3mhTeHlQXFbQVkRpClxdXN5maxknkewshkq5jnDq8Nr8fjlqsZmwM22Ga6I+7mFeUfIEP28=",
     "rtsp_url": "rtsp://localhost:8554/its_its_64",
     "hls_url": "http://localhost:8888/its_its_64/index.m3u8"
   },
@@ -580,7 +580,7 @@
     "name": "[국도47호선] 남양주 용정교",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/71390/cPqAY9LsCSeF5O5C+Zsa9KA4bmjjtolc9JdgQH4jOXAbmDZs3OTiT1s+t3zcdQIMsUHyrs5/6gM7yMkSVTAGcZ+Bhpv/XFYMGR7KUhyUvZk=",
+    "source_url": "https://cctvsec.ktict.co.kr/71390/cPqAY9LsCSeF5O5C+Zsa9KA4bmjjtolc9JdgQH4jOXAbmDZs3OTiT1s+t3zcdQIMe/kaIJUzegkr2R67Xl2f6fT9wanqOncB1WjRI7bZgZE=",
     "rtsp_url": "rtsp://localhost:8554/its_its_65",
     "hls_url": "http://localhost:8888/its_its_65/index.m3u8"
   },
@@ -589,7 +589,7 @@
     "name": "[국도47호선] 금곡리교차로",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/71393/lUGdrqtem6X/iNEPfBv74GWTP+W/rB8CjTRVBDftM49SFN/8JiTVEfVaKj8iGt5UfPVRz3izqJf+bVvTWzbbuFDZjesENgB05NivOidgstk=",
+    "source_url": "https://cctvsec.ktict.co.kr/71393/lUGdrqtem6X/iNEPfBv74GWTP+W/rB8CjTRVBDftM49SFN/8JiTVEfVaKj8iGt5UFenF48aJkff26uXwzncOjprDlKspVOVWaRZCkZWd7dw=",
     "rtsp_url": "rtsp://localhost:8554/its_its_66",
     "hls_url": "http://localhost:8888/its_its_66/index.m3u8"
   },
@@ -598,7 +598,7 @@
     "name": "[국도47호선] 남양주 신팔야교",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/71394/QTu9XGtIC+b7lGY43gaoNzljl4MWybCXaddiDc+l0/9nSZsnx6I14ayOOlbIGjvsHAGa2Cjkio3Pk1ldXLx3PmIdCBZJuhgxk/NV2AfsInc=",
+    "source_url": "https://cctvsec.ktict.co.kr/71394/QTu9XGtIC+b7lGY43gaoNzljl4MWybCXaddiDc+l0/9nSZsnx6I14ayOOlbIGjvsLu49WnET42IvPIKiEcU2a/BizcCJDM8HwXkmj3a1TKQ=",
     "rtsp_url": "rtsp://localhost:8554/its_its_67",
     "hls_url": "http://localhost:8888/its_its_67/index.m3u8"
   },
@@ -607,7 +607,7 @@
     "name": "[국도43호선] 포천 수내동입구교차로",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/71396/pS+JPi70XOVp4x+5s9nz+4byzauzIhgI9WrckrL7sBHMKUDYjTJ9M50GKQSHWOH3JwDX3kdmuc5Eh0RhgVN9G4zVmzo81trAgXSG1XXjpnU=",
+    "source_url": "https://cctvsec.ktict.co.kr/71396/pS+JPi70XOVp4x+5s9nz+4byzauzIhgI9WrckrL7sBHMKUDYjTJ9M50GKQSHWOH3tv4xYXPirm2uUud+pxRdqPo3PsKlgTde3Vlbg5L+QKM=",
     "rtsp_url": "rtsp://localhost:8554/its_its_68",
     "hls_url": "http://localhost:8888/its_its_68/index.m3u8"
   },
@@ -616,7 +616,7 @@
     "name": "[국도47호선] 남양주 부평교차로",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/71397/3Y68tma0Wm+tPGxK7nfop3qK5lZCltcxKEf8svdGi022iik1Mo23ULUv09wvknuwrKgerPSm9QvsfOqT8BKCJ/gux/0ORsnrE+3lfnLnvjw=",
+    "source_url": "https://cctvsec.ktict.co.kr/71397/3Y68tma0Wm+tPGxK7nfop3qK5lZCltcxKEf8svdGi022iik1Mo23ULUv09wvknuwHXM8E+/wc+c9zA6duF6MKqUQTlA/L29j5zXWOy/nu+A=",
     "rtsp_url": "rtsp://localhost:8554/its_its_69",
     "hls_url": "http://localhost:8888/its_its_69/index.m3u8"
   },
@@ -625,7 +625,7 @@
     "name": "[국도47호선] 포천 음현2리~4리",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/71398/GuFyogK7FiJojPbNWJhjulswoX8LYvoafy9dSZMfOA1gzOW2MoPCAADx9zn0lPLswhEjzgsYCOtVlcrjBW8VgJ77Aq42fERm+EsnzXhltfQ=",
+    "source_url": "https://cctvsec.ktict.co.kr/71398/GuFyogK7FiJojPbNWJhjulswoX8LYvoafy9dSZMfOA1gzOW2MoPCAADx9zn0lPLs+OoXLKBHRHMHgYLkikESG0TDVYc4LtptgOJdCSB6xQc=",
     "rtsp_url": "rtsp://localhost:8554/its_its_70",
     "hls_url": "http://localhost:8888/its_its_70/index.m3u8"
   },
@@ -634,7 +634,7 @@
     "name": "[국도47호선] 포천 기장대삼거리",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/71399/JV2jUSNPIbLY1l2861tKI7Kzc+tOv9Q2L6TxzuKt1emx8GZv72WzPTq0T3QmJc/OnqH5PfR7Fg7logORCf2n6896RAQgiXZ1o5GO4EAHDqw=",
+    "source_url": "https://cctvsec.ktict.co.kr/71399/JV2jUSNPIbLY1l2861tKI7Kzc+tOv9Q2L6TxzuKt1emx8GZv72WzPTq0T3QmJc/OCiwhZRLJi1gRdwVlg7PBoFGZZUwycue4yJFVOXsl1a8=",
     "rtsp_url": "rtsp://localhost:8554/its_its_71",
     "hls_url": "http://localhost:8888/its_its_71/index.m3u8"
   },
@@ -643,7 +643,7 @@
     "name": "[국도47호선] 포천 베어스타운 앞",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/71400/NcMcALlcea6hTzfv4jWhT/gSwWCcxTlOM30lzL2TH8Ujd94RRxsIPkZr8+VYk+piJW+VEtju9aMBj0+hY5S9x0YnwdDZ8lF2FDl0BuIafRY=",
+    "source_url": "https://cctvsec.ktict.co.kr/71400/NcMcALlcea6hTzfv4jWhT/gSwWCcxTlOM30lzL2TH8Ujd94RRxsIPkZr8+VYk+pipDSTo4vRO/u2Vr3oUkaOKLUMIPFQMd7p4txWMTPttnw=",
     "rtsp_url": "rtsp://localhost:8554/its_its_72",
     "hls_url": "http://localhost:8888/its_its_72/index.m3u8"
   },
@@ -652,7 +652,7 @@
     "name": "[국도39호선] 고양 토당IC",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/71443/CvzndPG5Gy5jmFdDT9kNGc3MhHr1Ctuk3Lj5g3dGevJJ+MFRF2qV+PRHx8HCwaTazFMfrBbJ8I2wbjF8iIRsKzoUHjboYhFw+j7xUqMwe+o=",
+    "source_url": "https://cctvsec.ktict.co.kr/71443/CvzndPG5Gy5jmFdDT9kNGc3MhHr1Ctuk3Lj5g3dGevJJ+MFRF2qV+PRHx8HCwaTagt1gU5IgY2rthIf8EIHPUNGhW/N6M+GU3Q8UQVsXUFo=",
     "rtsp_url": "rtsp://localhost:8554/its_its_73",
     "hls_url": "http://localhost:8888/its_its_73/index.m3u8"
   },
@@ -661,7 +661,7 @@
     "name": "[국도39호선] 고양 주교교",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/71444/NbJsXZ/RZQSpqQhkwCCqds1H2s/ps5kGs1ia1PBwjtf1mUcBNcWnWgVpGXH3hOvmP74TUsDxaSfGy6t8ctlXGc5ibb1bHuvK9R8lfUsu8gA=",
+    "source_url": "https://cctvsec.ktict.co.kr/71444/NbJsXZ/RZQSpqQhkwCCqds1H2s/ps5kGs1ia1PBwjtf1mUcBNcWnWgVpGXH3hOvmcUHzYApD4iVkRTLbO1ETeiFzUfM4ONnS+HQcLudMyLE=",
     "rtsp_url": "rtsp://localhost:8554/its_its_74",
     "hls_url": "http://localhost:8888/its_its_74/index.m3u8"
   },
@@ -670,7 +670,7 @@
     "name": "[국도39호선] 고양 원당야구장",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/71445/7063Lk7VeIk75EXbEgc9A0zElFnlTbmZDXHUVg8wmWaJzU26XLX0wf+ZAB51SJDa4S6Msl9xvS2PLpSyVw9lVO6OUOcM8+Yg+bhLCX4SZhc=",
+    "source_url": "https://cctvsec.ktict.co.kr/71445/7063Lk7VeIk75EXbEgc9A0zElFnlTbmZDXHUVg8wmWaJzU26XLX0wf+ZAB51SJDaETz6rToJ73D+AUGmZdh772azmV/tYJ3AEe8FNEcZhR4=",
     "rtsp_url": "rtsp://localhost:8554/its_its_75",
     "hls_url": "http://localhost:8888/its_its_75/index.m3u8"
   },
@@ -679,7 +679,7 @@
     "name": "[국도39호선] 고양 왕릉IC",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/71446/wO9Hn0gp8gUaE/+fsMi/44h52WAQKiAmrCzdXEQk2xU2FWjEDuB5/bEW4hnEhXcrHsmXmuduS+a9YovlEbgUmrbXyj8jd9bNGqjDJRDKofs=",
+    "source_url": "https://cctvsec.ktict.co.kr/71446/wO9Hn0gp8gUaE/+fsMi/44h52WAQKiAmrCzdXEQk2xU2FWjEDuB5/bEW4hnEhXcrMKhIgowgT3aacj0nO7EY8BAZoX4SAQ4f19uyQK4jo+s=",
     "rtsp_url": "rtsp://localhost:8554/its_its_76",
     "hls_url": "http://localhost:8888/its_its_76/index.m3u8"
   },
@@ -688,7 +688,7 @@
     "name": "[국도43호선] 광주 엄미1리정류장근처",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/71491/kDUhA37884wHXgFFZGM0jdYLDSvoW2o5cXhXkxgjg19/K4ACHjv3G8YPUMrfYfU5hqgMcjRV592rh39PMYpZLGoyggPN0JxImnanmnsLzew=",
+    "source_url": "https://cctvsec.ktict.co.kr/71491/kDUhA37884wHXgFFZGM0jdYLDSvoW2o5cXhXkxgjg19/K4ACHjv3G8YPUMrfYfU5+HNp1zNWTAJabeux+FAsjfylH5/zW2QSlUuyuWYsSGQ=",
     "rtsp_url": "rtsp://localhost:8554/its_its_77",
     "hls_url": "http://localhost:8888/its_its_77/index.m3u8"
   },
@@ -697,7 +697,7 @@
     "name": "[국도1호선] 파주봉일천사거리",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/71655/3M9Ht6Zr8sLVwOXgVxsqhcjmMDHOc2QQeBQHi4kzapp1lKYw3B0pk7XO3ZpsKmzTugK0mYI3pr1obfK9eEsXHBGbXpdiwzuF4e/dlnFxors=",
+    "source_url": "https://cctvsec.ktict.co.kr/71655/3M9Ht6Zr8sLVwOXgVxsqhcjmMDHOc2QQeBQHi4kzapp1lKYw3B0pk7XO3ZpsKmzThNm5AuSNkIlcymEyK/jQ39jjDZqf8zgJg0YBcRGVDRk=",
     "rtsp_url": "rtsp://localhost:8554/its_its_78",
     "hls_url": "http://localhost:8888/its_its_78/index.m3u8"
   },
@@ -706,7 +706,7 @@
     "name": "[국도1호선] 파주 금촌신사거리",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/71657/YW506sWpBTbES+SS/ga+vTBCIgCKtBErp+26z99MGiZ5aPZ+FGoWXx0GVDclpBxhHcpMNXEq+hU40ajulU/seZYAztMUPhUGAbdcAEB2KUE=",
+    "source_url": "https://cctvsec.ktict.co.kr/71657/YW506sWpBTbES+SS/ga+vTBCIgCKtBErp+26z99MGiZ5aPZ+FGoWXx0GVDclpBxhJOsnXcM7Twiod2VoTyCEn7Mdymx5z7UBvNhoo/qhZFc=",
     "rtsp_url": "rtsp://localhost:8554/its_its_79",
     "hls_url": "http://localhost:8888/its_its_79/index.m3u8"
   },
@@ -715,7 +715,7 @@
     "name": "[국도6호선] 남양주 덕소IC",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/71658/3x4J/w++zMMj4YB8LNIIHZONIZ8t0Ry5EsPgy2stj237sKuX52plTu9u+43GGwTIax2XkGIUN2iluKMTrXcIGSR89/NLv9yxFOBExmwKr+k=",
+    "source_url": "https://cctvsec.ktict.co.kr/71658/3x4J/w++zMMj4YB8LNIIHZONIZ8t0Ry5EsPgy2stj237sKuX52plTu9u+43GGwTIcqo8+ke3aDWWL1NeFSClqkR35DyjXXHlbS/fmjnUnt4=",
     "rtsp_url": "rtsp://localhost:8554/its_its_80",
     "hls_url": "http://localhost:8888/its_its_80/index.m3u8"
   },
@@ -724,7 +724,7 @@
     "name": "[국도6호선] 남양주 하팔당 삼거리",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/71659/IuHUUXbBy7Xc2T3/Tpy4ypZRYbijNZ+u8hSCYL00fn9wvA+dbZROahLZYEEtv84paIR6nd8eVgmT1REb2OBl0jlzaCLWIhyiQe62hb22I1A=",
+    "source_url": "https://cctvsec.ktict.co.kr/71659/IuHUUXbBy7Xc2T3/Tpy4ypZRYbijNZ+u8hSCYL00fn9wvA+dbZROahLZYEEtv84p91hCK+aCebB1NSte7l7D705pcEI80tRRIpijETqTowk=",
     "rtsp_url": "rtsp://localhost:8554/its_its_81",
     "hls_url": "http://localhost:8888/its_its_81/index.m3u8"
   },
@@ -733,7 +733,7 @@
     "name": "[국도39] 양주 용못골정류장",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/74421/CsKyRsPfeBmTqY9LXKDxe0kUnadZIr2VP8T0SSEV79wGx3NHOb/vVxxS1eHli6crkCgDIvyBHmEnQBWweMzYQFQW0c1TdhSMScRayafyUDI=",
+    "source_url": "https://cctvsec.ktict.co.kr/74421/CsKyRsPfeBmTqY9LXKDxe0kUnadZIr2VP8T0SSEV79wGx3NHOb/vVxxS1eHli6crbeW3LHdI17VLyNkh885gZPBqKGUWU67LBWkpeiIkZps=",
     "rtsp_url": "rtsp://localhost:8554/its_its_82",
     "hls_url": "http://localhost:8888/its_its_82/index.m3u8"
   },
@@ -742,7 +742,7 @@
     "name": "[국도82호선] 광주 상번천리(2)",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/74443/5I6KDtsbqCG+lPmibHVqYnNrFAZ8vXlJP+9qOdSGcTQTDpJ2qnqrMagWNV/5JNPAQSfevKPjzCcsO1IWCWyaHTdNTXH1tri8dxshgjjQz0g=",
+    "source_url": "https://cctvsec.ktict.co.kr/74443/5I6KDtsbqCG+lPmibHVqYnNrFAZ8vXlJP+9qOdSGcTQTDpJ2qnqrMagWNV/5JNPACLxaznK+rUf3MJCfSgBBDn77GnqpNGrkxrX07U9Xlrg=",
     "rtsp_url": "rtsp://localhost:8554/its_its_83",
     "hls_url": "http://localhost:8888/its_its_83/index.m3u8"
   },
@@ -751,7 +751,7 @@
     "name": "[국도46호선] 남양주 녹촌1~2교",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/74451/DMzc16T5xjPQqxMKrad2yCOBT0gvkvfyxWXxqij936s2LYpnWqlCCzslnNtsjuYSy3FxZ0Anxg0ju8f0iqt3BIho6nnUBzTgRjLRwpWhJWU=",
+    "source_url": "https://cctvsec.ktict.co.kr/74451/DMzc16T5xjPQqxMKrad2yCOBT0gvkvfyxWXxqij936s2LYpnWqlCCzslnNtsjuYSnTU711eo5tQ2KKUZS5ielBlcjE1pwcLlEi29RGJI7NU=",
     "rtsp_url": "rtsp://localhost:8554/its_its_84",
     "hls_url": "http://localhost:8888/its_its_84/index.m3u8"
   },
@@ -760,7 +760,7 @@
     "name": "[국도87호선] 포천 내촌육교(2)",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/74454/Zqr7rQbL/sGDMGJ3J2ExkMyoG9NHTAkB8shOAoZXyO3UCEpFPoG/+YIQMjUm/zFzWEvw99y7Z7+L6JYYLunCjm6IWrddBZOqZA3E0vidFzY=",
+    "source_url": "https://cctvsec.ktict.co.kr/74454/Zqr7rQbL/sGDMGJ3J2ExkMyoG9NHTAkB8shOAoZXyO3UCEpFPoG/+YIQMjUm/zFzYE1F4PVtiJEq/xGy+i+AjQOA6/GX42XWUyXYkoq5BhY=",
     "rtsp_url": "rtsp://localhost:8554/its_its_85",
     "hls_url": "http://localhost:8888/its_its_85/index.m3u8"
   },
@@ -769,7 +769,7 @@
     "name": "[국도82호선] 광주 남한산계곡",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/74897/XmasW2guqSx80VfeS8qxN9kNQ1oMhX701qZUPMIBmQqyRqkG44e1PMjdWonK4IJlOb+cMW/PRCOz66sGvrDUSisynoMJJv4+S9zpmasHgM8=",
+    "source_url": "https://cctvsec.ktict.co.kr/74897/XmasW2guqSx80VfeS8qxN9kNQ1oMhX701qZUPMIBmQqyRqkG44e1PMjdWonK4IJlIA3vueq7g1jaJ93tje2mFA/ONSp7Hr6kQFpfP2yg3NQ=",
     "rtsp_url": "rtsp://localhost:8554/its_its_86",
     "hls_url": "http://localhost:8888/its_its_86/index.m3u8"
   },
@@ -778,7 +778,7 @@
     "name": "[국도39호선] 고양 주교지하차도",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/79072/lgs2MM2zqgXbf9YOKi8CzwtiwBxsoeMfOGELPmtkDMEEA8/Kh866W79HMIt1ygox/FKOOlFo1VQD5oEUuHueBWjkhPRc4yc/3xxy97yHEQs=",
+    "source_url": "https://cctvsec.ktict.co.kr/79072/lgs2MM2zqgXbf9YOKi8CzwtiwBxsoeMfOGELPmtkDMEEA8/Kh866W79HMIt1ygoxFsgfDktW9q2Y//KBT13UIMcE9TonRLQysdEDisk3wOg=",
     "rtsp_url": "rtsp://localhost:8554/its_its_87",
     "hls_url": "http://localhost:8888/its_its_87/index.m3u8"
   },
@@ -787,7 +787,7 @@
     "name": "[국도46호선] 남양주 마치~호평교",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/79079/eb7468VFVckgitHnwT5cktNeMWz8f4u/KaNDbJNjx1BN6indqu+8OjocwTJNH8R16NhZuDRhAOvr9Qabcv5FpWwtbeicwHnxiB+5o1a5uRc=",
+    "source_url": "https://cctvsec.ktict.co.kr/79079/eb7468VFVckgitHnwT5cktNeMWz8f4u/KaNDbJNjx1BN6indqu+8OjocwTJNH8R1HyErTr7aP/oyTI+fGgMOctWiMFc6JX2tzWkJlX/DB10=",
     "rtsp_url": "rtsp://localhost:8554/its_its_88",
     "hls_url": "http://localhost:8888/its_its_88/index.m3u8"
   },
@@ -796,7 +796,7 @@
     "name": "[국도46호선] 남양주 먹골IC사거리",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/79080/Y04RczuONfsHVeJEgFXRs9Vuk1gUY8SeVpXDbXNll5LcwsadEXfHL2DmmGPt+ueFc6zTWbN9RFr/TWPRVoBEwtbU47PuwnlHwPNMEzOzeFM=",
+    "source_url": "https://cctvsec.ktict.co.kr/79080/Y04RczuONfsHVeJEgFXRs9Vuk1gUY8SeVpXDbXNll5LcwsadEXfHL2DmmGPt+ueF6sPTQRHayDYW3StPpTEk7oi5ryVLQjMHWuu8vMdDUjs=",
     "rtsp_url": "rtsp://localhost:8554/its_its_89",
     "hls_url": "http://localhost:8888/its_its_89/index.m3u8"
   },
@@ -805,7 +805,7 @@
     "name": "[국도6] 남양주 도곡근린공원",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/79965/GFaEteaA0sQQeSOIpP4ZG3qH0FrJLHjpSEx8mtcIYI+HvFa9d2YgCHiaLLY48QlhVPefPzEyg9XqwhMw8H6Dvs+QnlAQ1ff0H/PEPRZ+ZJ4=",
+    "source_url": "https://cctvsec.ktict.co.kr/79965/GFaEteaA0sQQeSOIpP4ZG3qH0FrJLHjpSEx8mtcIYI+HvFa9d2YgCHiaLLY48QlhS5V1wknRE/WxsPYVeyY7xLwSD/iTFBkkXzsbUbeZEnw=",
     "rtsp_url": "rtsp://localhost:8554/its_its_90",
     "hls_url": "http://localhost:8888/its_its_90/index.m3u8"
   },
@@ -814,7 +814,7 @@
     "name": "[국도6] 남양주 봉안대교",
     "region": "ITS",
     "source_type": "hls",
-    "source_url": "https://cctvsec.ktict.co.kr/79966/CiYoXMTOrXx15vPsdtJsyjkdYbDewk1ubybz5T1RCifCRR6BcuSWgvg8dw/EFpJCLOS7jJhyLa/xmDVoW/JIswMMNjpXIB2LODsJ1wUQ0zU=",
+    "source_url": "https://cctvsec.ktict.co.kr/79966/CiYoXMTOrXx15vPsdtJsyjkdYbDewk1ubybz5T1RCifCRR6BcuSWgvg8dw/EFpJCdImexvbt/wcx3iTxec4lGo8Lik3vCxQHL0OTkhvnoOY=",
     "rtsp_url": "rtsp://localhost:8554/its_its_91",
     "hls_url": "http://localhost:8888/its_its_91/index.m3u8"
   }
