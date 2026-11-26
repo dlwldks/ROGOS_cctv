@@ -1,5 +1,10 @@
 # 📡 ROGOS - CCTV RTSP 관제 시스템
 
+## Portfolio overview / 구현 범위
+
+This repository implements the CCTV ingestion and streaming module of ROGOS: HLS sources, ffmpeg, MediaMTX, RTSP for downstream processing and HLS for browser monitoring. The separate TAS/ROGOS AI prototype explores VLM interpretation, BM25 retrieval and LLM response generation; these components are not implemented in this repository. External stream availability varies; live coverage and disaster-response accuracy are not certified.
+
+
 ## 📌 프로젝트 개요
 
 ROGOS는 **다양한 CCTV 영상 소스를 수집하고**, 이를 **RTSP 스트림으로 변환하여**
